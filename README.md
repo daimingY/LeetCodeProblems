@@ -7,3 +7,4 @@
 - Longest Palindromic Substring
   - O(n^2) runtime with O(1) space
 - ZigZag Conversion
+- Reverse Integer
