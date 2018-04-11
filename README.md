@@ -8,3 +8,4 @@
   - O(n^2) runtime with O(1) space
 - ZigZag Conversion
 - Reverse Integer
+- String to Integer (atoi)
