@@ -18,3 +18,5 @@
 - Letter Combinations of A Phone Number
 - 4 Sums
 - Remove Nth From End
+- Generate Parentheses
+  - Solved with Backtracing, recursion method
