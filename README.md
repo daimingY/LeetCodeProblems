@@ -21,3 +21,4 @@
 - Generate Parentheses
   - Solved with Backtracing, recursion method
 - Merge K Sorted Lists
+- Swap Nodes in Pairs
