@@ -23,3 +23,4 @@
 - Merge K Sorted Lists
 - Swap Nodes in Pairs
 - Divide
+- Next Permutation
