@@ -24,3 +24,4 @@
 - Swap Nodes in Pairs
 - Divide
 - Next Permutation
+- Reverse Nodes in k-Group
