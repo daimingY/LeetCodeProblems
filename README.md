@@ -25,3 +25,5 @@
 - Divide
 - Next Permutation
 - Reverse Nodes in k-Group
+- Search in Rotated Sorted Array
+  - Divide and Conquer
