@@ -29,3 +29,6 @@
   - Divide and Conquer
 - Search for a Range
 - Substring with Concatenation of All Words
+- Longest Valid Parentheses
+  - Using stack to get substring answers
+  - 1-D Dynamic Programming solution didn't run as fast as stack
