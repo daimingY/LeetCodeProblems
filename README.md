@@ -32,3 +32,5 @@
 - Longest Valid Parentheses
   - Using stack to get substring answers
   - 1-D Dynamic Programming solution didn't run as fast as stack
+- Jump Game II
+  - Using BFS to implement Greedy Algorithm.
