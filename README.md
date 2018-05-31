@@ -1,4 +1,5 @@
 # LeetCodeProblems
+**Note:** All problem descriptions are inside the corresponding problem folder.
 ## Algorithms
 - Add Two Numbers
 - Longest Substring Without Repeating Characters
@@ -34,3 +35,4 @@
   - 1-D Dynamic Programming solution didn't run as fast as stack
 - Jump Game II
   - Using BFS to implement Greedy Algorithm.
+- Valid Soduku
