@@ -36,7 +36,9 @@
 - Jump Game II
   - Using BFS to implement Greedy Algorithm.
 - Valid Sudoku
+  - Using Backtracking
 - Sudoku Solver
+  - Using Backtracking
 - Combination Sum
 - Combination Sum II
 - Multiply Strings
