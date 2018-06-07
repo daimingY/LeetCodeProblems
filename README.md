@@ -42,3 +42,5 @@
 - Combination Sum
 - Combination Sum II
 - Multiply Strings
+- First Missing Positive
+  - Though the array is given unsorted, linear runtime possible by swaping numbers into correct places
