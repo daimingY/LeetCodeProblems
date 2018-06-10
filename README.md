@@ -45,4 +45,8 @@
 - First Missing Positive
   - Though the array is given unsorted, linear runtime possible by swaping numbers into correct places
 - Permutations
+  - Using backtracking
 - Permutations II
+  - Using backtracking
+- Rotate Image
+  - Greedy Algorithm, O(1) space, O(n^2) runtime, as input size being a n^2 square matrix
