@@ -51,6 +51,6 @@
 - Rotate Image
   - Greedy Algorithm, O(1) space, O(n^2) runtime, as input size being a n^2 square matrix
 - Group Anagrams
-  - Using sort and hash map, achieve O(nklogk)
+  - Using sort and hash map, achieve O(nklogk). Note: n is number of words, k is max length of a word.
 - Pow(x,n)
   - O(log(n)), linear runtime, as n passed in as a number value, and considering multiplication as O(1).
