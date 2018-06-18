@@ -56,3 +56,5 @@
   - O(log(n)), linear runtime, as n passed in as a number value, and considering multiplication as O(1).
 - Wildcard Matching
   - DP solution, O(mn)
+- N-Queens
+  - Use Backtracking with information stored in 1-D Array
