@@ -58,3 +58,5 @@
   - DP solution, O(mn)
 - N-Queens
   - Use Backtracking with information stored in 1-D Array
+- N-Queens II
+  - Same as above, except return the total number
