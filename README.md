@@ -60,3 +60,5 @@
   - Use Backtracking with information stored in 1-D Array
 - N-Queens II
   - Same as above, except return the total number
+- Spiral Matrix
+  - Linear Runtime
