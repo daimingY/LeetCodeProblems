@@ -62,3 +62,5 @@
   - Same as above, except return the total number
 - Spiral Matrix
   - Linear Runtime
+- Jump Game
+  - Linear Runtime to check whether the last index reachable. Minimum steps not required.
