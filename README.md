@@ -63,4 +63,4 @@
 - Spiral Matrix
   - Linear Runtime
 - Jump Game
-  - Linear Runtime to check whether the last index reachable. Minimum steps not required.
+  - Linear Runtime at each position to push the farthest reachable index, and then check whether the last index is reachable. Minimum steps not required.
