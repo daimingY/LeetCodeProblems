@@ -65,3 +65,4 @@
 - Jump Game
   - Linear Runtime at each position to push the farthest reachable index, and then check whether the last index is reachable. Minimum steps not required.
 - Merge Intervals
+- Spiral Matrix II
