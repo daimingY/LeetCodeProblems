@@ -7,6 +7,7 @@ By listing and labeling all of the permutations in order, we get the following s
 4. `"231"`
 5. `"312"`
 6. `"321"`
+
 Given n and k, return the kth permutation sequence.
 
 **Note:**
