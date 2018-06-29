@@ -67,3 +67,4 @@
 - Merge Intervals
 - Spiral Matrix II
 - Permutation Sequence
+- Rotate List
