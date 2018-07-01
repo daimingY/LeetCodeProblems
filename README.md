@@ -68,3 +68,5 @@
 - Spiral Matrix II
 - Permutation Sequence
 - Rotate List
+- Unique Paths
+  - Dynamic Programming solution. O(m * n) runtime, O(min(m, n)) space complexity.
