@@ -72,3 +72,5 @@
   - Dynamic Programming solution. O(m * n) runtime, O(min(m, n)) space complexity.
 - Unique Paths II
   - DP solution, considering obstacles.
+- Minimum Path Sum
+  - DP solution
