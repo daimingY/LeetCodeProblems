@@ -74,3 +74,4 @@
   - DP solution, considering obstacles.
 - Minimum Path Sum
   - DP solution
+- Valid Numbers
