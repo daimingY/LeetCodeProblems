@@ -76,3 +76,4 @@
   - DP solution
 - Valid Numbers
 - Insert Interval
+- Simply Path
