@@ -79,3 +79,4 @@
 - Simply Path
 - Set Matrix Zeroes
 - Search a 2D Matrix
+- Sort Colors
